@@ -1,0 +1,56 @@
+[2023-10-26 22:07:38] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:07:39] [ ERROR] [OdontologoDaoH2:45] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO, LOCALIDAD, PROVINCIA) VALUES (?, ?, ?, ?) [42104-224]
+[2023-10-26 22:07:39] [ INFO ] [OdontologoDaoH2:50] Tuvimos un problema
+[2023-10-26 22:07:39] [ ERROR] [OdontologoDaoH2:51] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO, LOCALIDAD, PROVINCIA) VALUES (?, ?, ?, ?) [42104-224]
+[2023-10-26 22:08:20] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:08:20] [ ERROR] [OdontologoDaoH2:45] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO, LOCALIDAD, PROVINCIA) VALUES (?, ?, ?, ?) [42104-224]
+[2023-10-26 22:08:20] [ INFO ] [OdontologoDaoH2:50] Tuvimos un problema
+[2023-10-26 22:08:20] [ ERROR] [OdontologoDaoH2:51] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO, LOCALIDAD, PROVINCIA) VALUES (?, ?, ?, ?) [42104-224]
+[2023-10-26 22:09:52] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:10:09] [ ERROR] [OdontologoDaoH2:45] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO, LOCALIDAD, PROVINCIA) VALUES (?, ?, ?, ?) [42104-224]
+[2023-10-26 22:10:09] [ INFO ] [OdontologoDaoH2:50] Tuvimos un problema
+[2023-10-26 22:10:09] [ ERROR] [OdontologoDaoH2:51] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE, NUMERO, LOCALIDAD, PROVINCIA) VALUES (?, ?, ?, ?) [42104-224]
+[2023-10-26 22:11:56] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:11:56] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2023-10-26 22:11:56] [ INFO ] [OdontologoDaoH2:50] Tuvimos un problema
+[2023-10-26 22:11:56] [ ERROR] [OdontologoDaoH2:51] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2023-10-26 22:12:22] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-224]
+[2023-10-26 22:12:22] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2023-10-26 22:12:22] [ INFO ] [OdontologoDaoH2:50] Tuvimos un problema
+[2023-10-26 22:12:22] [ ERROR] [OdontologoDaoH2:51] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2023-10-26 22:13:33] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2023-10-26 22:13:33] [ INFO ] [OdontologoDaoH2:50] Tuvimos un problema
+[2023-10-26 22:13:33] [ ERROR] [OdontologoDaoH2:51] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2023-10-26 22:14:24] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2023-10-26 22:14:24] [ INFO ] [OdontologoDaoH2:50] Tuvimos un problema
+[2023-10-26 22:14:24] [ ERROR] [OdontologoDaoH2:51] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2023-10-26 22:18:02] [ ERROR] [OdontologoDaoH2:45] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-224]
+[2023-10-26 22:18:02] [ ERROR] [OdontologoDaoH2:54] La base de datos esta abierta en modo EXCLUSIVO; no puede abrir conexiones adicionales
+The database is open in exclusive mode; can not open additional connections [90135-224]
+[2023-10-26 22:18:28] [ INFO ] [OdontologoDaoH2:40] Se ha registrado el Odontologo: Odontologo{id=3, numeroMatricula=485762, nombre='Lucia', apellido='Perez'}
+[2023-10-26 22:18:34] [ INFO ] [OdontologoDaoH2:40] Se ha registrado el Odontologo: Odontologo{id=3, numeroMatricula=485762, nombre='Lucia', apellido='Perez'}
+[2023-10-26 22:18:55] [ INFO ] [OdontologoDaoH2:88] Listado de odontologos obtenido: [Odontologo{id=1, numeroMatricula=467588, nombre='Alonso', apellido='Fernandez'}, Odontologo{id=2, numeroMatricula=486625, nombre='Manuel', apellido='Mena'}]
+[2023-10-26 22:18:55] [ INFO ] [OdontologoDaoH2:40] Se ha registrado el Odontologo: Odontologo{id=3, numeroMatricula=485762, nombre='Lucia', apellido='Perez'}
+[2023-10-26 22:19:57] [ INFO ] [OdontologoDaoH2:88] Listado de odontologos obtenido: [Odontologo{id=1, numeroMatricula=467588, nombre='Alonso', apellido='Fernandez'}, Odontologo{id=2, numeroMatricula=486625, nombre='Manuel', apellido='Mena'}]
+[2023-10-26 22:19:58] [ INFO ] [OdontologoDaoH2:88] Listado de odontologos obtenido: [Odontologo{id=1, numeroMatricula=467588, nombre='Alonso', apellido='Fernandez'}, Odontologo{id=2, numeroMatricula=486625, nombre='Manuel', apellido='Mena'}]
+[2023-10-26 22:19:58] [ INFO ] [OdontologoDaoH2:40] Se ha registrado el Odontologo: Odontologo{id=3, numeroMatricula=485762, nombre='Lucia', apellido='Perez'}
