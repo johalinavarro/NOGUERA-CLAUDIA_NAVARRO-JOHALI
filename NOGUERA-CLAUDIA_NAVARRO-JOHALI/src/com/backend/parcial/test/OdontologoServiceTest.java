@@ -6,11 +6,12 @@ import com.backend.parcial.service.OdontologoService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertFalse;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.util.List;
 
-import static org.junit.Assert.assertFalse;
 
 public class OdontologoServiceTest {
     private OdontologoService odontologoService = new OdontologoService(new OdontologoDaoH2());
@@ -46,9 +47,10 @@ public class OdontologoServiceTest {
     }
 
     @Test
-    void deberiaRetornarUnaListaNoVacia(){
+    public void listarTodosLosOdontologos() {
+        List<Odontologo> odontologoList = odontologoService.listarOdontologos();
+        assertFalse(odontologoList.isEmpty());
 
-        assertFalse(odontologoService.listarOdontologos().isEmpty());
 
     }
 
